@@ -1,0 +1,84 @@
+.mother {
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 30px ;
+}
+
+.menu { 
+    margin-bottom: 50px;
+}
+
+.header {
+    margin-bottom: 20px;
+}
+
+.description {
+    margin-bottom: 20px;
+    font-size: 18px;
+    color: gray;
+}
+
+.bottom { 
+    text-align: center;
+    font-size: 25px;
+    margin-top: 50px;
+}
+
+.logo {
+    width: 40px;
+    height: 40px;
+    margin-right: 300px;
+}
+
+.left {
+    display: inline-block;
+    width: 40%;
+}
+
+.right {
+    display: inline-block;
+    width: 40%;
+}
+.appstoreimage {
+    width: 40%;
+    
+}
+.rightimage {
+    width: 140%;
+}
+.menuitem {
+    text-decoration: none;
+    color: inherit;
+    margin-left: 20px;
+}
+.menuitem:hover{
+    border-bottom-style: solid ;
+}
+.blockelement {
+    display: block;
+    margin: 10px 0 20px; 
+    border: none;
+    background-color: rgb(245, 243, 243);
+    height: 35px;
+    border-radius: 15px;
+    outline: none;
+    width: 300px;
+    padding: 0 15px;
+    font-size: 16px;
+}
+.signbutton {
+    background-color: #0084ff;
+    border-radius: 24px;
+    border: none;
+    color: white;
+    padding: 2px 20px 0;
+    font-size: 19px;
+    height: 40px;
+    width: 100px;
+}
+.inputspan  {
+    margin-bottom: 20px;
+}
+.password   {
+    margin-bottom: 20px;
+}
